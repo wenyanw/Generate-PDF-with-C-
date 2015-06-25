@@ -1,0 +1,8 @@
+1. Itextsharp:
+A free tool to generate pdf. easily to get started, but it lacks of virtulizarion tools which was provided by option 2.
+
+2. PDFsharp and MigraDoc
+
+it has the simillar features compared to Itextsharp, but has a doc viewer which is handy for designing the pdf.
+
+http://www.pdfsharp.net/wiki/AllPages.aspx
